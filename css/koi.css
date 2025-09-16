@@ -53,7 +53,7 @@ section {
   background-color: none;
 }
 .form-bg {
-  background-image: url(img/bar-2.jpg);
+  background-image: url(/img/bar-2.jpg);
   background-size: cover;
 }
 .he {
@@ -214,3 +214,4 @@ section {
     text-align: center;
   }
 }
+
